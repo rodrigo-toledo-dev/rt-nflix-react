@@ -18,10 +18,10 @@ import Header from '../../components/header';
 import Footer from '../../components/footer';
 
 // Sections
-import Profiles from '../../components/sections/profiles';
-import Categories from '../../components/sections/categories';
-import LastReleases from '../../components/sections/lastReleases';
-import TopRated from '../../components/sections/topRated';
+import Profiles from '../../components/sections/Profiles';
+import Categories from '../../components/sections/Categories';
+import LastReleases from '../../components/sections/LastReleases';
+import TopRated from '../../components/sections/TopRated';
 import UserInfo from '../../components/sections/userInfo';
 
 class Main extends Component {

@@ -27,7 +27,7 @@ const Navbar = () => {
             <a className='nav-link js-scroll-trigger' href='#contact'>Meus dados</a>
           </li>
           <li className='nav-item'>
-            <input type="text" name="q" id="q" defaultValue="" placeHolder="buscar por..." className="nav-link js-scroll-trigger search-at-top" />
+            <input type="text" name="q" id="q" defaultValue="" placeholder="buscar por..." className="nav-link js-scroll-trigger search-at-top" />
           </li>
         </ul>
       </div>
