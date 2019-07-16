@@ -22,7 +22,7 @@ import Profiles from '../../components/sections/Profiles';
 import Categories from '../../components/sections/Categories';
 import LastReleases from '../../components/sections/LastReleases';
 import TopRated from '../../components/sections/TopRated';
-import UserInfo from '../../components/sections/userInfo';
+import UserInfo from '../../components/sections/UserInfo';
 
 class Main extends Component {
   render(){
